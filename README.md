@@ -1,4 +1,17 @@
-<h1 align="center">Hi 👋, I'm Vasty Terrel. I have a bachelor's degree in information systems engineering.</h1>
+<div id="header" align="center">
+  
+  <img src="https://i.pinimg.com/originals/06/ac/6c/06ac6c7439ba99b8620dc164a26ba1cc.gif" width="150"/>
+  
+  <div id="badges">
+    <a href="www.linkedin.com/in/vasty-esthefany-terrel-villanueva-95b582236">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <h1 align="center">Hi 👋, I'm Vasty Terrel. I have a bachelor's degree in information systems engineering.</h1>
+</div>
+
+
+
 <h3 align="center">A passionate QA Tester from Perú</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vastyesthef&label=Profile%20views&color=0e75b6&style=flat" alt="vastyesthef" /> </p>
