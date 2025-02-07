@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning to be a QA Tester
 <!--
 **VastyEsthef/VastyEsthef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
